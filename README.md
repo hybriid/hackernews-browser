@@ -1,6 +1,7 @@
 # Hackernews Browser
 ## Purpose
 Browses Hackernews by listing out relevant articles based on the search
+
 Please note that this application is still a work in progress, planned features include:
 - Being able to visit the author's page
 - Being able to visit comments
