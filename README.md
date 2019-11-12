@@ -1,4 +1,4 @@
-# Hackernew Browser
+# Hackernews Browser
 ## Purpose
 Browses Hackernews by listing out relevant articles based on the search
 ## Screenshots
