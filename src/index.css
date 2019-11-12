@@ -1,0 +1,48 @@
+body {
+  background: #020304;
+}
+
+h1 {
+  color: #626266;
+  margin-bottom: 5px;
+}
+
+a {
+  color: #541F14;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-bottom: 10px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;  
+}
+
+table {
+  flex-grow: 0;
+  text-align: left;
+  width: 100%;
+}
+
+thead {
+  color: #CC9E61; 
+  font-size: 21px;
+}
+
+tbody {
+  color: #938172;
+  font-size: 13px;
+}
+
+input {
+  border: 0;
+  border-radius: 50px;
+  padding:10px;
+}
